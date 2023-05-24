@@ -4,9 +4,6 @@ I am currently PhD candidate in civil engineering at [Middle East Technical Univ
 
 My research focuses on designing and implementing robust solutions in the fields of civil engineering and computer science; Digitization of construction industry, Engineering informatics, Computer vision, Machine learning, Applications of Unmanned Aerial Vehicles
 
-- [CV](https://ahmetersoz.com/cv/)
-- [Google Scholar](https://scholar.google.com/citations?user=6bEmhE8AAAAJ)
 - [Twitter](https://twitter.com/ahmetbersoz)
 - [Linkedin](https://www.linkedin.com/in/ahmetbahaddinersoz/)
 - [Blog](https://blog.ahmetersoz.com/)
-- [Youtube](https://www.youtube.com/channel/UCeZg9p18smoG1cBZGrTip9Q)
