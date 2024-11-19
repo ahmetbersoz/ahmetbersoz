@@ -1,8 +1,8 @@
 ### Hi 👋
 
-I am currently working as a research assistant at METU, department of CE. I have received my Ph.D. in automated construction monitoring. We started a tech company [i4Works](http://i4.com.tr/) in which we have created our finest product [SiteEye](http://siteeye.co/). 
+I am currently working as a postdoctoral researcher at the [CyberBuild](https://cyberbuild.eng.ed.ac.uk/) Lab at the University of Edinburgh and research assistant at [Middle East Technical University](https://metu.edu). I have received my Ph.D. in automated construction monitoring.
 
-My research focuses on designing and implementing robust solutions in the fields of civil engineering and computer science; Digitalization of the construction industry, Engineering informatics, Computer vision, Machine learning, and Applications of Unmanned Aerial Vehicles.
+My research focuses on designing and implementing robust solutions in the fields of civil engineering and computer science; Construction informatics, Digital Twins, Photogrammetry, Laser Scanning, Unmanned Aerial Vehicles.
 
 - [Twitter](https://twitter.com/ahmetbersoz)
 - [Linkedin](https://www.linkedin.com/in/ahmetbahaddinersoz/)
