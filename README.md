@@ -1,9 +1,7 @@
 ### Hi 👋
 
-I am currently working as a postdoctoral researcher at the [CyberBuild](https://cyberbuild.eng.ed.ac.uk/) Lab at the University of Edinburgh and research assistant at [Middle East Technical University](https://metu.edu). I have received my Ph.D. in automated construction monitoring.
+I am currently working as a postdoctoral researcher and a KTP Associate at the [University College London (UCL)](https://www.ucl.ac.uk/bartlett/environment-energy-resources/environmental-design). Previously, I worked at the [University of Edinburgh](https://cyberbuild.eng.ed.ac.uk/) and [METU](https://metu.edu).
 
-My research focuses on designing and implementing robust solutions in the fields of civil engineering and computer science; Construction informatics, Digital Twins, Photogrammetry, Laser Scanning, Unmanned Aerial Vehicles.
+My research focuses on designing and implementing robust solutions in the fields of civil engineering and computer science, with a particular focus on construction informatics, digital twins, LLMs, and reality capture technologies.
 
-- [Twitter](https://twitter.com/ahmetbersoz)
-- [Linkedin](https://www.linkedin.com/in/ahmetbahaddinersoz/)
-- [Blog](https://blog.ahmetersoz.com/)
+Contact me via **abersoz [at] gmail [dot] com**
